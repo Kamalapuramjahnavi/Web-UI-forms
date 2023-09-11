@@ -1,0 +1,8 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-image:url('https://images.pexels.com/photos/7897470/pexels-photo-7897470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
+i:hover {
+    cursor: pointer;
+}
